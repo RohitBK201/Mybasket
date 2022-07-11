@@ -1,10 +1,15 @@
+import { Route,Routes } from "react-router-dom"
 
 export const Allroute =()=>{
 
 return(
-<div>
-    allroutes
-</div>
+    
+    <div>
+        <Routes>
+            <Route/>
+        </Routes>
+    </div>
+    
 )
 
 
